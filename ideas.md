@@ -26,7 +26,7 @@ Last updated: **{{ update }}**.
 
 ## 💻 Software Development
 
-- [json-server](https://github.com/theanaverwaerde/json-server), I want to do [typicode/json-server](https://github.com/typicode/json-server), but with only one binary file without needed npm installation
+- [json-server](https://github.com/kurithie/json-server), I want to do [typicode/json-server](https://github.com/typicode/json-server), but with only one binary file without needed npm installation
 - faker online, a website to get pertinents fake data in multiple format json/csv/xml, probably with [Svelte](https://svelte.dev)
 
 ## 🕹️ Game Development

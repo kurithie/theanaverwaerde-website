@@ -8,7 +8,7 @@ permalink: /this
 
 # This
 
-If you want to know how I built this website you can check [source code](https://github.com/theanaverwaerde/theanaverwaerde-website).
+If you want to know how I built this website you can check [source code](https://github.com/kurithie/theanaverwaerde-website).
 
 ## Hosting and CI/CD
 

@@ -17,7 +17,7 @@ For pagination, the most common option is with offset and limit, but if you need
 
 Database is better to do filter instead of skip, the difference is small at start but if you have a huge dataset the impact can be huge.
 
-In my own machine with PostgreSQL database, I do [a script available in GitHub Gist](https://gist.github.com/theanaverwaerde/fc9385edcc85499ab5a67dfc1888a160) to benchmark timing between pagination by offset vs cursor.
+In my own machine with PostgreSQL database, I do [a script available in GitHub Gist](https://gist.github.com/kurithie/fc9385edcc85499ab5a67dfc1888a160) to benchmark timing between pagination by offset vs cursor.
 
 | Page | Offset (ms) | Cursor (ms) |
 | ---: | :---------- | :---------- |
